@@ -1,6 +1,6 @@
 // Variáveis e tipo de dados
-//declaraçã or declaration
-    //let name (mas estava dando erro pedindo para ser um const)
+//declaração or declaration
+    //let name (declaration are deprecation)
 
 //assignment or atribuição de valores
 let name = "Ricardo"
